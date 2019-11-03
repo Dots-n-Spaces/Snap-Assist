@@ -1,5 +1,6 @@
 # Snap-Assist
 
+<img src="https://github.com/Dots-n-Spaces/Snap-Assist/blob/master/Icon.png" alt="Snap Assist Logo" width="300px" />
 
 # Usage
 
