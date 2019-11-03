@@ -17,7 +17,7 @@
 * Press `^ ctrl` + `⌘ cmd` + `D` to resize window to half screen and move it to the right.
 
 # Demo
-
+<img src="https://github.com/Dots-n-Spaces/Snap-Assist/blob/master/Images/Demo.gif" alt="Snap Assist Demo" />
 
 # Support
 If you like to buy us coffee ☕️ with a croissant 🥐, you can donate to [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VT7GVV2DR3LZS&source=url).
