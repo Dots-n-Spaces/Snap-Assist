@@ -2,7 +2,9 @@
 
 <img src="https://github.com/Dots-n-Spaces/Snap-Assist/blob/master/Images/Icon.png" alt="Snap Assist Logo" width="300px" />
 
-MacOS utility application that makes window management easier. Currently, application supports: fullscreen, halves, and converting to normal size. Use either keyboard shortcuts or drag&drop window to top/left/right of your screen.
+MacOS toolbar utility application that makes window management easier. 
+
+Currently, application supports fullscreen, halves, and conversation to normal size. Use either keyboard shortcuts or drag&drop window to top/left/right of your screen.
 
 [Download](https://github.com/Dots-n-Spaces/Snap-Assist/releases/download/1.0/Snap.Assist.1.0.dmg)
 
