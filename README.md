@@ -2,11 +2,12 @@
 
 <img src="https://github.com/Dots-n-Spaces/Snap-Assist/blob/master/Images/Icon.png" alt="Snap Assist Logo" width="300px" />
 
-MacOS utility application that makes window management easier. Currently, application supports: fullscreen, halves, and converting to normal size. Use either keyboard shortcuts or drag&drop window to top/left/right of your screen. 
+MacOS utility application that makes window management easier. Currently, application supports: fullscreen, halves, and converting to normal size. Use either keyboard shortcuts or drag&drop window to top/left/right of your screen.
 
 [Download](https://github.com/Dots-n-Spaces/Snap-Assist/releases/download/1.0/Snap.Assist.1.0.dmg)
 
-<img src="https://github.com/Dots-n-Spaces/Snap-Assist/blob/master/Images/Demo.gif" alt="Snap Assist Demo" />
+<img src="https://github.com/Dots-n-Spaces/Snap-Assist/blob/master/Images/DemoMouse.gif" alt="Snap Assist Demo Mouse" />
+<img src="https://github.com/Dots-n-Spaces/Snap-Assist/blob/master/Images/DemoKey.gif" alt="Snap Assist Demo Keyboard" />
 
 # Usage
 - Download from the [releases](https://github.com/Dots-n-Spaces/Snap-Assist/releases) `dmg` file and copy paste application into Applications folder.
