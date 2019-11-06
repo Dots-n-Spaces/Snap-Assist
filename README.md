@@ -34,4 +34,5 @@ If you like to buy us coffee ☕️ with a croissant 🥐, you can donate to [he
 
 # Links
 [Home Page](https://dots-n-spaces.com/)
+
 [Privacy Policy](https://github.com/Dots-n-Spaces/Policies/blob/master/PrivacyPolicy.md)
