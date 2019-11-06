@@ -32,5 +32,6 @@ If you like to buy us coffee ☕️ with a croissant 🥐, you can donate to [he
    <img src="https://github.com/Dots-n-Spaces/Snap-Assist/blob/master/Images/Donation.png" alt="Coffee mug and donation QR code" />
 </a>
 
-# Etc
+# Links
+[Home Page](https://dots-n-spaces.com/)
 [Privacy Policy](https://github.com/Dots-n-Spaces/Policies/blob/master/PrivacyPolicy.md)
