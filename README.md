@@ -1,4 +1,4 @@
-# Snap-Assist
+# [Snap-Assist](https://dots-n-spaces.com/snap-assist.html)
 
 <img src="https://github.com/Dots-n-Spaces/Snap-Assist/blob/master/Images/Icon.png" alt="Snap Assist Logo" width="300px" />
 
@@ -32,5 +32,7 @@ If you like to buy us coffee ☕️ with a croissant 🥐, you can donate to [he
    <img src="https://github.com/Dots-n-Spaces/Snap-Assist/blob/master/Images/Donation.png" alt="Coffee mug and donation QR code" />
 </a>
 
-# Etc
+# Links
+[Home Page](https://dots-n-spaces.com/snap-assist.html)
+
 [Privacy Policy](https://github.com/Dots-n-Spaces/Policies/blob/master/PrivacyPolicy.md)
